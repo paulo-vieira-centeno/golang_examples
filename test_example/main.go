@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"fu"
+
+	"github.com/paulo-vieira-centeno/golang_examples/test_example/fu"
 )
 
 func main() {
